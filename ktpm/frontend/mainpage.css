@@ -1,0 +1,15 @@
+.navbar-custom {
+    background-color: #F5B;
+    padding: 5px 10px; 
+}
+
+.navbar-custom .navbar-nav .nav-link {
+    color: white !important;
+    font-size: 20px;
+}
+
+.logo {
+    width: 100px;  /* Điều chỉnh kích thước chiều rộng */
+    height: auto; /* Tự động điều chỉnh chiều cao theo tỷ lệ */
+    margin-right: 10px; /* Thêm khoảng cách giữa logo và văn bản liền kề */
+}
